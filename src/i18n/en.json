@@ -1,0 +1,58 @@
+{
+  "tabs": {
+    "focus": "Focus",
+    "skills": "Skills",
+    "quests": "Quests",
+    "stats": "Stats",
+    "achievements": "Achievements",
+    "mindbody": "Mind & Body",
+    "inventory": "Inventory",
+    "charts": "Charts",
+    "journal": "Journal",
+    "settings": "Settings"
+  },
+  "header": {
+    "title": "Solo Leveling System",
+    "activeTitle": "Title",
+    "defaultTitle": "The Rising One"
+  },
+  "focus": {
+    "title": "Focus Session",
+    "activity": "Activity type",
+    "skill": "Skill",
+    "start": "Start",
+    "pause": "Pause",
+    "stop": "Stop",
+    "noSkill": "No skill"
+  },
+  "skills": {
+    "add": "Add skill",
+    "placeholder": "New skill...",
+    "none": "No skills yet..."
+  },
+  "quests": {
+    "add": "Add quest",
+    "types": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "story": "Story",
+      "reactive": "Reactive"
+    },
+    "status": {
+      "open": "Active",
+      "done": "Completed",
+      "failed": "Failed"
+    }
+  },
+  "stats": {
+    "level": "Level",
+    "will": "Willpower",
+    "end": "Endurance",
+    "autoGrowth": "Willpower and Endurance grow automatically based on focus duration and daily consistency."
+  },
+  "settings": {
+    "export": "Export JSON",
+    "import": "Import JSON",
+    "notice": "All data is stored locally (localStorage + IndexedDB)."
+  }
+}

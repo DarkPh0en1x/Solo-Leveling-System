@@ -1,0 +1,58 @@
+{
+  "tabs": {
+    "focus": "Фокус",
+    "skills": "Навыки",
+    "quests": "Квесты",
+    "stats": "Характеристики",
+    "achievements": "Достижения",
+    "mindbody": "Разум и тело",
+    "inventory": "Инвентарь",
+    "charts": "Графики",
+    "journal": "Журнал",
+    "settings": "Настройки"
+  },
+  "header": {
+    "title": "Solo Leveling System",
+    "activeTitle": "Титул",
+    "defaultTitle": "Восходящий"
+  },
+  "focus": {
+    "title": "Фокус-сессия",
+    "activity": "Тип активности",
+    "skill": "Навык",
+    "start": "Старт",
+    "pause": "Пауза",
+    "stop": "Стоп",
+    "noSkill": "Без навыка"
+  },
+  "skills": {
+    "add": "Добавить навык",
+    "placeholder": "Новый навык...",
+    "none": "Навыков пока нет..."
+  },
+  "quests": {
+    "add": "Добавить квест",
+    "types": {
+      "daily": "Ежедневный",
+      "weekly": "Недельный",
+      "story": "Сюжетный",
+      "reactive": "Внезапный"
+    },
+    "status": {
+      "open": "Активные",
+      "done": "Выполненные",
+      "failed": "Проваленные"
+    }
+  },
+  "stats": {
+    "level": "Уровень",
+    "will": "Willpower",
+    "end": "Endurance",
+    "autoGrowth": "Willpower и Endurance растут автоматически от длительности и регулярности фокус-сессий."
+  },
+  "settings": {
+    "export": "Экспорт JSON",
+    "import": "Импорт JSON",
+    "notice": "Данные сохраняются локально (localStorage + IndexedDB)."
+  }
+}
